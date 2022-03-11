@@ -81,6 +81,13 @@
     box-shadow: 1px 1px 13px -7px #777575; 
     
 }
+
+#home {
+  background-image: url(../assets/img/61111-plane.gif);
+  background-position: -100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .name-text {
     font-size: 20px;
     line-height: 34px;
